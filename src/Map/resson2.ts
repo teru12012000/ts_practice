@@ -44,3 +44,8 @@ map2.set("ghuraghaui", newValue)
 
 console.log("修正後")
 console.log(map2)
+
+map2.delete("gjarogjaigjaoibamoia")
+
+console.log("修正後")
+console.log(map2)
